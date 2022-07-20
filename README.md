@@ -1,3 +1,6 @@
+# Currently Down
+Met with some errors, will resume later.
+
 # Synfuscate
 ![image](https://user-images.githubusercontent.com/109639502/179891443-68646a2b-a5ea-4c34-a0e4-fd81f60eb7cc.png)
 
